@@ -17,7 +17,6 @@ public class MahasiswaMain22 {
         mhs2.updateIPK(3.30);
         mhs2.tampilkaninformasi();
 
-        Mahasiswa22 mhsRoyan = new Mahasiswa22("Royan Danar Sadewa", "254107060133", "SIB 1F", 3.80);
-        mhsRoyan.tampilkaninformasi();
+        
     }
 }
